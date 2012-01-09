@@ -10,6 +10,7 @@ gem 'sqlite3'
 
 group :development do
   gem 'annotate', '2.4.0'
+  gem 'gravatar_image_tag', '1.0.0.pre2'
 end
 
 # Gems used only for assets and not required
